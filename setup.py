@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
    name='snowflake',
-   version='1.0',
+   version='1.01',
    description='A useful module',
    author='Siyuan Mei',
    author_email='siyuan.mei@fau.de',
